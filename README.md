@@ -58,3 +58,5 @@ As we see in these components:
 
 1. Render different things
 2. Render different spinners
+
+common logic different presentation
