@@ -45,3 +45,16 @@ is a simple technique for sharing code between React components.
 ```
 
 `render could be in any name`
+
+As we see in these components:
+
+*What they have in common:
+
+1. Request Data from API
+2. Need Loading States
+3. Have error states
+
+*How they differ?
+
+1. Render different things
+2. Render different spinners
