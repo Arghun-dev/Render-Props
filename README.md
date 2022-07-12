@@ -29,6 +29,10 @@ it's actually the same thing as pets, except it's renders Priles instead of dogs
 
 maybe the presentation of this component going to be different, maybe it's going to have input's and some other things. or maybe you manager comes to you and says, ohh I have this awesome idea, we wanna have a different loading spinner here, And so you think like, ohh, well actually they're like the same component, and I don't know maybe I need to add a conditional statement in the component, if it pet is equal to puppy, then show that or kitten, and you notice that your component is bloating.
 
+A design pattern is a general repeatable solution to a commonly occuring problem in software design.
+
+In React it is mostly to solve an issue regarding rendering and passing props with ease.
+
 `tight coupling of logic + presentation made our component less reusable and flexible`
 
 and because we connected our logic and presentation to each other we kind og backed into a corner,
@@ -60,3 +64,7 @@ As we see in these components:
 2. Render different spinners
 
 common logic different presentation
+
+
+### Example without render prop
+
