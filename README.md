@@ -66,5 +66,9 @@ As we see in these components:
 common logic different presentation
 
 
+*How it works
+
+For components that needs to share state with other encapsulated components without creating a different component.
+
 ### Example without render prop
 
